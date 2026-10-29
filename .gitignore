@@ -1,0 +1,11 @@
+.DS_Store
+Pulse.app/
+build/
+*.dSYM/
+*.zip
+*.xcarchive/
+dist/
+PersonalToolbox/
+
+Backups/
+*.app/
